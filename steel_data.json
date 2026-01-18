@@ -1,0 +1,27 @@
+{
+  "AISI_304": {
+    "Cr": 18.0, 
+    "Ni": 8.0, 
+    "recovery_Cr": 0.92
+  },
+  "AISI_310": {
+    "Cr": {"min": 24.0, "max": 26.0}, 
+    "Ni": {"min": 19.0, "max": 22.0}, 
+    "recovery_Cr": 0.98
+  },
+  "AISI_316": {
+    "Cr": 16.0, 
+    "Ni": 10.0, 
+    "recovery_Cr": 0.95
+  },
+  "AISI_321": {
+    "Cr": {"min": 17.0, "max": 19.4}, 
+    "Ni": {"max": 9.0, "max": 12.0}, 
+    "recovery_Cr": 0.98
+  },
+  "AISI_430": {
+    "Cr": {"min": 16.0, "max": 18.0}, 
+    "Ni": {"less than": 0.75}, 
+    "recovery_Cr": 0.98
+  }
+}
