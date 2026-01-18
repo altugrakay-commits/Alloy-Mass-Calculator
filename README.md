@@ -28,5 +28,7 @@ This project showcases my ability to implement resilient logic for complex scena
 3.  Run the main Python script (e.g., `python your_script_name.py`) in your terminal or Jupyter environment.
 4.  Follow the prompts to enter a total mass and a grade number (e.g., 304, 310, 316, 321, or 430).
 
+### Contact: altug.akay@bergsskolan.se
+
 ### License
 This project is covered under the [MIT License](LICENSE).
